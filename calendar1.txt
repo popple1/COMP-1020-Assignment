@@ -1,0 +1,25 @@
+Celeste's Calendar
+2019
+Haircut,14,60,1,18
+Dentist Appointment,16,90,1,24
+Lunch with Mom,12,90,1,29
+Violin Lessons,11,60,1,8
+Violin Lessons,11,60,2,8
+Violin Lessons,11,60,3,8
+Violin Lessons,11,60,4,8
+Violin Lessons,11,60,5,8
+Violin Lessons,11,60,6,8
+Violin Lessons,11,60,7,8
+Violin Lessons,11,60,8,8
+Violin Lessons,11,60,9,8
+Violin Lessons,11,60,10,8
+Violin Lessons,11,60,11,8
+Violin Lessons,11,60,12,8
+Pysch Midterm,11,90,2,11
+Coffee with Al,10,60,2,11
+Concert downtown,20,75,2,8
+Lunch with Mom,12,60,3,2
+Dinner with friends,18,150,2,11
+Running group,8,120,2,11
+Running group,8,120,2,18
+Running group,8,120,2,25

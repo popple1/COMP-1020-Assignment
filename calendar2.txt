@@ -1,0 +1,10 @@
+Bob's Calendar
+2021
+Haircut,a,60,1,18
+Dentist Appointment,16,90,1,24
+Lunch with Mom,12,90,29,29
+Violin Lessons,11,60,1,8
+Pysch Midterm,11,90,2,11
+Coffee with Al,10,60,2,11
+Concert downtown,30,75,2,8
+Lunch with Mom,12,60,3,2
